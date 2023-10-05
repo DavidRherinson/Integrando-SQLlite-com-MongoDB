@@ -1,4 +1,4 @@
-# 💵 Integração de Python com SQLite e MongoDB 💵
+# 💻 Integração de Python com SQLite e MongoDB 💻
 
 
 
